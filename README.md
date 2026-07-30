@@ -17,6 +17,15 @@
 
 ---
 
+<!-- SNAKE ANIMATION -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techreyy/techreyy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techreyy/techreyy/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/techreyy/techreyy/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 ### 💻 Tech Stack & Tools
 
 <p align="left">
@@ -45,11 +54,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-<!-- SNAKE ANIMATION -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techreyy/techreyy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techreyy/techreyy/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/techreyy/techreyy/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
