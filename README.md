@@ -1,105 +1,48 @@
-<!-- ============ HEADER ============ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff88&height=200&section=header&text=Ahmad%20Raihan%20Al-Biruni&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Dev%20•%20Web%20Dev%20•%20Cyber%20Security%20•%20Photographer&descAlignY=58&descSize=16" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=Halo!+Saya+Ahmad+Raihan+Al-Biruni+%F0%9F%91%8B;Mahasiswa+Universitas+Muhammadiyah+Kendari;Software+Developer+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;Cyber+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Photographer+%F0%9F%93%B8" alt="Typing SVG" />
-  </a>
-</p>
+<img src="./assets/header.svg" width="100%" alt="Ahmad Raihan Al-Biruni — Software Dev, Web Dev, Cyber, Fotografer" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB&label=Profile%20Views&color=00ff88&style=for-the-badge" />
-</p>
+<br/><br/>
 
----
+<a href="https://instagram.com/techreyy_"><img src="./assets/instagram.svg" height="64" alt="Instagram @techreyy_" /></a>
+&nbsp;&nbsp;
+<a href="https://www.tiktok.com/@techreyy_"><img src="./assets/tiktok.svg" height="64" alt="TikTok @techreyy_" /></a>
 
-### 🧑‍💻 Tentang Saya
+<br/><br/>
 
-```yaml
-nama      : Ahmad Raihan Al-Biruni
-kampus    : Universitas Muhammadiyah Kendari
-role      :
-  - Software Developer
-  - Web Developer
-  - Cyber Security Enthusiast
-  - Photographer
-motto     : "Code. Secure. Capture."
-```
+<img src="./assets/marquee.svg" width="100%" alt="Software Developer · Web Developer · Cyber Security · Photographer" />
 
----
+<br/><br/>
 
-### 📱 Temukan Saya Di
+<img src="./assets/about.svg" width="100%" alt="Ahmad Raihan Al-Biruni · Universitas Muhammadiyah Kendari" />
 
-<p align="center">
-  <a href="https://instagram.com/techreyy_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@techreyy__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@techreyy_" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-@techreyy__-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-</p>
+<br/><br/>
 
----
+<img src="./assets/t-stack.svg" width="100%" alt="Stack" />
 
-### 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,php,laravel&theme=dark&perline=10" />
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,linux,kali,bash,docker,git,figma&theme=dark&perline=10" />
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,github,ps,ai,pr,ae&theme=dark&perline=10" />
 
-**💻 Software & Web Dev**
+<br/><br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cpp,react,nodejs,laravel,tailwind,bootstrap,mysql,git,github,vscode&perline=9" />
-</p>
+<img src="./assets/t-stats.svg" width="100%" alt="Stats" />
 
-**🛡️ Cyber Security**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&rank_icon=github&border_radius=18&bg_color=0E1730&border_color=E6ECFF&title_color=E6ECFF&icon_color=3D7BFF&text_color=8D9BC2&ring_color=D4F53C" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&border_radius=18&bg_color=0E1730&border_color=E6ECFF&title_color=E6ECFF&text_color=8D9BC2" />
 
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=gnometerminal&logoColor=white" />
-</p>
+<img width="100%" src="https://streak-stats.demolab.com?user=USERNAME_GITHUB&border_radius=18&background=0E1730&border=E6ECFF&stroke=3D7BFF&ring=3D7BFF&fire=D4F53C&currStreakNum=E6ECFF&sideNums=E6ECFF&currStreakLabel=D4F53C&sideLabels=8D9BC2&dates=8D9BC2" />
 
-**📸 Photography**
+<br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
+<img src="./assets/t-snake.svg" width="100%" alt="Contribution Snake" />
 
----
+<img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/USERNAME_GITHUB/USERNAME_GITHUB/output/snake.svg" />
 
-### 📊 Statistik GitHub
+<br/><br/>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" />
-</p>
+<sub><code>BUILD THINGS · BREAK THINGS · SHOOT MOMENTS</code></sub>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME_GITHUB&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
-
-### 🐍 Ular Pemakan Kontribusi
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME_GITHUB/USERNAME_GITHUB/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME_GITHUB/USERNAME_GITHUB/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/USERNAME_GITHUB/USERNAME_GITHUB/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:203a43,100:0f2027&height=120&section=footer" />
-</p>
+</div>
